@@ -7,3 +7,7 @@
 .sidebar-headings {
 text-decoration: underline;
 }
+
+.panel-title {
+  text-align: center;
+}
