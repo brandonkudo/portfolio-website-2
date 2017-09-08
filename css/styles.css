@@ -14,10 +14,11 @@ text-decoration: underline;
 
 .main-body {
   margin-top: 50px;
-  margin-left: 160px;
+  margin-left: 165px;
   border: 5px;
+  text-align: justify;
 }
 
 .page-title {
-  margin: 40px;
+  text-align: left;
 }
