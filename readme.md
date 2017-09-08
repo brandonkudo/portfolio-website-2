@@ -11,6 +11,7 @@ _This website contains my full portfolio of web design creations including webpa
 ## Setup/Installation Requirements
 
 * _Clone this repository_
+* _https://github.com/brandonkudo/portfolio-website-2.git_
 * _Open HTML file in browser_
 
 ## Support and contact details
